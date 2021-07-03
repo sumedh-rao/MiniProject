@@ -8,6 +8,5 @@ int main()
     c = sum(a, b);
     d = square(a);
     printf("c=%d,d=%d\n", c, d);
-
     return 0;
 }
