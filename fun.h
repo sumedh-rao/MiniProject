@@ -1,5 +1,10 @@
 #ifndef __FUN_H
 #define __FUN_H
-int sum(int x, int y);
-int square(int x);
+void bike();
+void car();
+void clear();
+void rikshaw();
+void truck();
+void status();
+int menu(ch);
 #endif

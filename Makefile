@@ -1,3 +1,4 @@
-target : test.c 
-	gcc test.c sum.c sqr.c -o all.exe
+target : main.c 
+	gcc truck.c bike.c rikshaw.c car.c status.c clear.c menu.c main.c -o all.out
+	./all.out
 	
