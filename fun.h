@@ -1,10 +1,10 @@
 #ifndef __FUN_H
 #define __FUN_H
-void bike();
-void car();
-void clear();
-void rikshaw();
-void truck();
-void status();
-int menu(ch);
+int bike();
+int car();
+int clear();
+int rikshaw();
+int truck();
+int status();
+int menu(int X);
 #endif

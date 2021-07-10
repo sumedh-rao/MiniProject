@@ -1,37 +1,21 @@
 #include "fun.h"
 #include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
 
-void main()
+int main(void)
 {
     while (1)
     {
-        switch (menu())
-        {
-        case 1:
-            truck();
-            break;
-        case 2:
-            car();
-            break;
-        case 3:
-            rikshaw();
-            break;
-        case 4:
-            bike();
-            break;
-        case 5:
-            status();
-            break;
-        case 6:
-            clear();
-            break;
-        case 7:
-            exit(0);
-        default:
-            printf("\n Enter correct option");
+        int ch, not = 0, noc = 0, nor = 0, nob = 0, amount = 0, count = 0;
+        printf("\n\n\n 1.Enter bus/truck");
+        printf("\n 2.Enter car/jeep");
+        printf("\n 3.Enter rikshaw");
+        printf("\n 4.Enter bike");
+        printf("\n 5.check status");
+        printf("\n 6.clear data");
+        printf("\n 7.exit");
+        printf("\n Enter your choice: ");
+        scanf("%d", &ch);
+        menu(ch);
         }
-    }
-    getch();
+    return 0;
 }
