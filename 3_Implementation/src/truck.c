@@ -2,10 +2,10 @@
 #include <stdio.h>
 int truck(void)
 {
-    int nob, amount = 0, count = 0;
+    int not, amount = 0, count = 0;
     printf("\nEntry Successful");
-    nob++;
-    amount = amount + 50;
+    not ++;
+    amount = amount + 200;
     count++;
     return 0;
 }

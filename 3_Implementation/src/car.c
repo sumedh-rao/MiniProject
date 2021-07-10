@@ -2,10 +2,10 @@
 #include <stdio.h>
 int car(void)
 {
-    int nob, amount = 0, count = 0;
+    int noc, amount = 0, count = 0;
     printf("\nEntry Successful");
-    nob++;
-    amount = amount + 50;
+    noc++;
+    amount = amount + 100;
     count++;
     return 0;
 }

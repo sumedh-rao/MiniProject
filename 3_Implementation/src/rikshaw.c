@@ -3,10 +3,10 @@
 
 int rikshaw(void)
 {
-    int nob, amount = 0, count = 0;
+    int nor, amount = 0, count = 0;
     printf("\nEntry Successful");
-    nob++;
-    amount = amount + 50;
+    nor++;
+    amount = amount + 70;
     count++;
     return 0;
 }
