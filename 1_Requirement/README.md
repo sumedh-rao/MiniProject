@@ -19,4 +19,4 @@ The main features of this project are
 
 ## SWOT ANALYSIS
 
-![HAPPY!](E:\LTTS_C_PROGRAMMING\MiniProject\6_ImageAndVideos\SWOT.PNG)
+![SWOT!](E:\LTTS_C_PROGRAMMING\MiniProject\6_ImageAndVideos\SWOT_ANALYSIS.jpg)
