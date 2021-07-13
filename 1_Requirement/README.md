@@ -19,4 +19,4 @@ The main features of this project are
 
 ## SWOT ANALYSIS
 
-![SWOT!](E:\LTTS_C_PROGRAMMING\MiniProject\6_ImageAndVideos\SWOT_ANALYSIS.jpg)
+![SWOT_ANALYSIS](https://user-images.githubusercontent.com/60973329/125498838-13247716-58e6-4541-b1d0-385fb3259e62.jpg)
