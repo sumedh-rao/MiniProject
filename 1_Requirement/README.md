@@ -10,3 +10,5 @@ The main features of this project are
 2. Check Staus.
 3. Calculate Total Amount.
 4. Delete Entry.
+
+## SWOT ANALYSIS
