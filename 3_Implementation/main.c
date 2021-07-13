@@ -16,6 +16,6 @@ int main(void)
         printf("\n Enter your choice: ");
         scanf("%d", &ch);
         menu(ch);
-        }
+    }
     return 0;
 }
