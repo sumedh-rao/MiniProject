@@ -9,4 +9,4 @@ Github Bagdes
 
 |Windows build|Unity|C/C++ CI|
 |:--:|:--:|:--:|
-[![C windows Build](https://github.com/sumedh-rao/MiniProject/actions/workflows/windows-build.yml/badge.svg)](https://github.com/sumedh-rao/MiniProject/actions/workflows/windows-build.yml)|
+[![C windows Build](https://github.com/sumedh-rao/MiniProject/actions/workflows/windows-build.yml/badge.svg)](https://github.com/sumedh-rao/MiniProject/actions/workflows/windows-build.yml)|[![unit testing](https://github.com/sumedh-rao/MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/sumedh-rao/MiniProject/actions/workflows/unity.yml)
