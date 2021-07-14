@@ -2,21 +2,16 @@ name: unit testing
 
 on:
   push:
-    branches: [main]
+    branches: [ master ]
   pull_request:
-    branches: [main]
+    branches: [ master ]
 
 jobs:
   test:
+
     runs-on: windows-latest
 
     steps:
-<<<<<<< HEAD
-      - uses: actions/checkout@v2
-      - name: make
-        run: make -C 3_Implementation
-=======
     - uses: actions/checkout@v2
     - name: make
-      run: make -C 3_Implementation/ test
->>>>>>> ef5d84bdccd2d8f350bf63b86d806fcad3b9da1b
+      run: make -C 3_Implementation/ Build
