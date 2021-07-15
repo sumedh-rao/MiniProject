@@ -20,3 +20,18 @@ The main features of this project are
 ## SWOT ANALYSIS
 
 ![SWOT_ANALYSIS](https://user-images.githubusercontent.com/60973329/125498838-13247716-58e6-4541-b1d0-385fb3259e62.jpg)
+
+## HIGH LEVEL REQUIREMENTS
+
+1. Operating System.
+2. C Language.
+3. Hard Disk-2GB
+4. RAM-2GB.
+
+## LOW LEVEL REQUIREMENTS
+
+1. Analysis of C language.
+2. Function for Entry of Vehicle.
+3. Function for Checking Status.
+4. Function for Deleting Entries.
+
